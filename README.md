@@ -39,7 +39,7 @@ EVENT | UID   | PID | PROCESS_NAME | COUNTER | FIRST TIMESTAMP
 ## Como Executar
 ### Clone o repositório
 ```bash
-git clone 
+git clone https://github.com/arthur-dms/SysLog-Parser-Java.git
 ```
 
 ### Compile o projeto
